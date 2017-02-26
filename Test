@@ -1,0 +1,8 @@
+#coding=utf-8
+print "First time in a community to explore the knowledge world of python"
+print """
+000000
+111111
+222222
+00000
+"""
